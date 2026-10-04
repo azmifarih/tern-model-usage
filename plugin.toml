@@ -1,0 +1,6 @@
+schema = 1
+id = "model-usage"
+name = "Model Usage"
+version = "0.1.0"
+description = "Live omp model usage in the Tern status line"
+window = "window.luau"
